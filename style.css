@@ -304,6 +304,14 @@ footer{
     outline: none;
     border: 1px solid #ccc;
 }
+.video-row{
+    margin-top: 1%;
+    display: inline-flex;
+}
+.video-col{
+    padding: 100px;
+    text-align: center;
+}
 .video{
     text-align: center;
 }
